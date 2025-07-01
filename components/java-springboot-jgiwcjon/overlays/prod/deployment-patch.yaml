@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: tssc-quay-quay-tssc-quay.apps.cluster-rzb2l.rzb2l.sandbox1159.opentlc.com/tssc/java-springboot-jgiwcjon:44120ea69d0bad57bd17b871f0e762ec13bc0072@sha256:47fccb9efa9a5903bc564e3f2df3d0c29b5ba86c713161e4b4e818c87b466605
         name: container-image  
